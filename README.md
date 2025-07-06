@@ -4,6 +4,8 @@ A simple ride-sharing application backend built with Node.js, Express, and SQLit
 
 #### User registration and login with Basic Authentication.
 #### Passengers can request rides with pickup/drop locations, ride type, and payment.
+#### Passenger can cancel a ride request.
+#### Passenger can check their current ride request.
 #### Drivers can accept, reject, or update ride statuses (in_progress, completed, cancelled).
 #### Track driver earnings via balance and detailed payment records.
 #### Cancel active ride requests or rides.
